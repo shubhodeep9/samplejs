@@ -1,0 +1,22 @@
+{
+  "name": "samplejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhodeep9/samplejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhodeep9/samplejs/issues"
+  },
+  "homepage": "https://github.com/shubhodeep9/samplejs#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
